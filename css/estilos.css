@@ -1,0 +1,12 @@
+.externo{
+	font-family: "Rubik Broken Fax";
+	color: blueviolet;
+}
+@font-face{
+	font-family: "Roboto Mono";
+	src: url(../fonts/RobotoMono-VariableFont_wght.ttf);
+}
+.servidor{
+	font-family: "Roboto Mono";
+	color: hotpink;
+}
